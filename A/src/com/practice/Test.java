@@ -10,7 +10,8 @@ public class Test {
 		al.add(10);
 		al.add(20);
 		al.add(30);
-		
+		al.add(40);
+		al.add("santosh");
 		System.out.println(al);
 	}
 }
